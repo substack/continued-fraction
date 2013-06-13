@@ -1,0 +1,27 @@
+{
+    "name": "continued-fraction",
+    "version": "0.0.0",
+    "description": "evaluate a continued fraction as a real",
+    "main": "index.js",
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/substack/continued-fraction.git"
+    },
+    "homepage": "https://github.com/substack/continued-fraction",
+    "keywords": [
+        "kettenbruch",
+        "continued",
+        "fraction",
+        "real",
+        "irrational",
+        "transcendental",
+        "mathematics"
+    ],
+    "author": {
+        "name": "James Halliday",
+        "email": "mail@substack.net",
+        "url": "http://substack.net"
+    },
+    "license": "MIT"
+}
