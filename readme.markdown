@@ -7,7 +7,7 @@ You can use them to compute transcendental real numbers!
 
 # example
 
-# e
+## e
 
 ``` js
 var cf = require('continued-fraction');
@@ -22,7 +22,7 @@ console.log(n);
 2.7182818284590455
 ```
 
-# pi
+## pi
 
 ``` js
 var cf = require('continued-fraction');
